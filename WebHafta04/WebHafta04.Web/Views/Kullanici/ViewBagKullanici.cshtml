@@ -1,0 +1,30 @@
+﻿@using WebHafta04.Web.Models
+@{
+    Kullanici gelenKullanici = (Kullanici)ViewBag.Kullanici;
+}
+
+
+@gelenKullanici.KullaniciId <br />
+@gelenKullanici.KullaniciAdi <br />
+@gelenKullanici.KullaniciEmail <br />
+@gelenKullanici.KullaniciSifre <br />
+
+
+
+
+
+
+@using WebHafta04.Web.Models
+
+@{
+    Kullanici k = (Kullanici)ViewData["kul"];
+}
+
+@k.KullaniciId
+<br />
+@k.KullaniciAdi
+<br />
+@k.KullaniciEmail
+<br />
+@k.KullaniciSifre
+<br />
