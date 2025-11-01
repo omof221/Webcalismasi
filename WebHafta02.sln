@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHafta05.Web", "..\WebHaf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHafta01.Web", "..\WebHafta01\WebHafta01.Web\WebHafta01.Web.csproj", "{D4E57E42-15E9-F49D-F5AC-FCD942E9FB25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta06.Web", "..\WebHafta06\Hafta06.Web\Hafta06.Web.csproj", "{545AE643-3A97-DD99-78F4-21C0A028A104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D4E57E42-15E9-F49D-F5AC-FCD942E9FB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E57E42-15E9-F49D-F5AC-FCD942E9FB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E57E42-15E9-F49D-F5AC-FCD942E9FB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545AE643-3A97-DD99-78F4-21C0A028A104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545AE643-3A97-DD99-78F4-21C0A028A104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545AE643-3A97-DD99-78F4-21C0A028A104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545AE643-3A97-DD99-78F4-21C0A028A104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
